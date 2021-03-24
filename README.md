@@ -1,8 +1,8 @@
 # My Config
 
-## Download
+## Downloads
 > ### Font
-- [Fira Code]()
+- [Fira Code](https://drive.google.com/file/d/1dKiy2bBSyRqQnpjZtTXBggNc5fEidYjT/view?usp=sharing)
 
 ## VSCode settings.json
 ```
