@@ -1,7 +1,17 @@
-# hello-world
+# My Config
 
-Olá estou aprendendo a usar o github.
- 
-Sou iniciante na programação e sinto que por mais que estude, nada sei!, pois, constantemente sujem novas tecnologias, difíscultando ainda mais o aprendisado, principalmente quando sei que vou ficar para trás se não acompanha-las, isso piora por está fora desse mercado, mais mesmo assim sou apaixonado pela programação, e tento acompanhar a evolução.
+## Download
+> ### Font
+- [Fira Code]()
 
-Tudo começou no meu primeiro curso de informática básica, era “básica” mesmo, dali aprendi apenas a ligar e deligar o computador, mais daquele encontro surgiu uma química tão forte que perdura até hoje. Poucos anos depois, e muitos cursos de “informática” também, descobri que poderia dar ordens aquela máquina que tanto me fascinava. Minha primeira tentativa foi uma frustração, escolhi JAVA como minha primeira linguagem, mais por mais que tentasse aquilo não entrava na minha cabeça, procurei um curso com aulas presenciais, mais no interior onde moro não encontrei nada do tipo, desisti do JAVA, até ver um “cara” no youtube falando que ia me ensinar a programar para web, duvidei na hora, mesmo assim acompanhei o curso e depois do site pronto aquilo me alucinou p**** que louco “aprendi a fazer sites”, ao menos o básico do HTML5, CSS3 e um pouco, mais muito pouco mesmo, de JavaScript. Tempos depois aprendi PHP com o mesmo “cara”, e continuo aprendendo até os dias atuais, tudo graças a esse “cara”, agradeço bastante a ele, valeu Gustavo Guanabara, você é f*** p** c****.
+## VSCode settings.json
+```
+{
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true
+}
+```
