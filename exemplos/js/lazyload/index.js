@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
 
     const img = document.querySelector('img')
-
+    
     window.onscroll = () => {
-        if (isVisible(img)) {
+        if (isVisible(img) && !img.src) {
             img.src = img.getAttribute('data-src')
         }
     }
