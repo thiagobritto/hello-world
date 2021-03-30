@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box_wepper {
+            width: 100%;
+            display: flex;
+            border: 1px solid #444;
+            overflow-x: auto;
+        }
+        
+        .box_wepper::-webkit-scrollbar{
+            display: none;
+        }
+
+        .item {
+            min-width: 110px;
+            height: 110px;
+            background-color: #ddd;
+            line-height: 110px;
+            text-align: center;
+            margin-right: 3px;
+        }
+    </style>
+</head>
+<body>
+    <div class="box_wepper">
+        <div class="item">item 1</div>
+        <div class="item">item 2</div>
+        <div class="item">item 3</div>
+        <div class="item">item 4</div>
+        <div class="item">item 5</div>
+    </div>
+</body>
+</html>
